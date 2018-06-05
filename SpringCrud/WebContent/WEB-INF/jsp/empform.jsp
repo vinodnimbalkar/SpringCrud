@@ -7,7 +7,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>  
   <div class="container">
    <h1>Add New Employee</h1>         
-<form action="/save" method="post">
+<form action="/SpringCrud/save" method="post">
   <div class="form-group">
     <label for="name">Name:</label>
     <input type="text" name="name" class="form-control" id="name">
