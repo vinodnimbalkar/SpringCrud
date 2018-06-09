@@ -33,4 +33,4 @@ Access the deployed web application at: http://localhost:8080/SpringCrud/
 Note:
 -------------------
 
-This example originated from a (https://www.javatpoint.com/spring-mvc-crud-example/)
+This example originated from a (https://www.javatpoint.com/spring-mvc-crud-example)
