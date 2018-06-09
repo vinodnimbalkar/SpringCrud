@@ -25,7 +25,7 @@ To run the application:
 -------------------	
 From the command line with Maven:
 
-    $ cd spring-mvc-showcase
+    $ cd SpringCrud
     $ mvn jetty:run 
 
 Access the deployed web application at: http://localhost:8080/SpringCrud/
